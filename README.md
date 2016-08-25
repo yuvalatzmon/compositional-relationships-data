@@ -1,6 +1,4 @@
-# Data for the paper
-http://chechiklab.biu.ac.il/~yuvval/CompCRF/
-# Learning to generalize to new compositions in image understanding
+# Compositional COCO data 
 Data for the paper "Learning to generalize to new compositions in image understanding", Yuval Atzmon, Jonathan Berant, Vahid Kezami, Amir Globerson and Gal Chechik
 
 [Project page](http://chechiklab.biu.ac.il/~yuvval/CompCRF/)
