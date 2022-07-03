@@ -9,3 +9,7 @@ Triplet ID|Image ID|S, R, O
 Triplet ID can be ignored.
 
 
+# License
+Dataset was derived from annotation of the [COCO dataset](https://cocodataset.org/), and therefore we release it under the same license, which is 
+[Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
+
